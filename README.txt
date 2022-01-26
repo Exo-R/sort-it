@@ -1,6 +1,6 @@
 java version "1.8.0_281"
 
-Папка "sort-it" содержит jar-файл "sort-it.jar" вместе с папкой "resources", на которую он будет ссылаться.
+Папка "out/artifacts/sort-it" содержит jar-файл "sort-it.jar" вместе с папкой "resources", на которую он будет ссылаться.
 Для запуска этого jar-файла из командной строки нужно прописать в cmd путь к папке с jar-файлом, а после, к примеру, следующее:
 
 java -jar sort-it.jar -a -s out.txt in1.txt in2.txt in3.txt
